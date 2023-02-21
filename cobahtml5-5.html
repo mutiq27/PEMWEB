@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Atribut Datalist</title>
+</head>
+<body>
+    <datalist id="id-kontak">
+        <option value="tomi@yahoo.com" label="Tomi">
+        <option value="riko@gmail.com" label="Riko">
+            <option value="jumonten@hotmail.com" label="Juminten"></option>
+    </datalist>
+    <form id="formulir"action="sumbit.php" method="post">
+        <label>Kontak:</label>
+        <input type="email" name="email" list="id-kontak">
+        <input type="sumbit" value="Kirim">
+    </form>
+</body>
+</html>
