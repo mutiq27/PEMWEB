@@ -1,0 +1,183 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    overflow: auto;
+
+}
+.background_{
+position: absolute;
+width: 100%;
+
+background-image: url(lights-g94686627f_1920.jpg);
+background-color: rgba(0,0,0,0.5);
+
+}
+.nav{
+position: absolute;
+width: 100%;
+height: 75px;
+
+background-color: hsla(204, 46%, 21%, 0.7);
+}
+
+.bio{
+position: absolute;
+width: 300px;
+height: 54px;
+margin-top: 15px;
+left: 20px;
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+
+color: #A5C9CA;
+
+}
+.first{
+position: absolute;
+width: 100%;
+height: 328px;
+top: 9%;
+background-image: url(fantasy-g1c8c790e1_1920.jpg);
+background-position: center;
+}
+
+.second{
+position: absolute;
+width: 100%;
+height: 328px;
+
+
+background: linear-gradient(90deg, #011129 0%, rgba(2, 51, 99, 0) 123.26%);
+mix-blend-mode: normal;
+}
+.hello{
+    position: absolute;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 39px;
+    left: 173px;
+    top: 52px;
+
+    font-family: 'Bad Script';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.mutiq{
+    position: absolute;
+    margin-top: 10px;
+    width: 634px;
+    height: 61px;
+    left: 59px;
+    top: 78px;
+
+    font-family: 'Bad Script';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 95px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.student{
+    position: absolute;
+    margin-top: 10px;
+    width: 302px;
+    height: 29px;
+    left: 225px;
+    top: 164px;
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+    font-weight: 100;
+    font-size: 16px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+
+.bg_brief{
+    position: absolute;
+    height: 250px;
+    left: 150px;
+    right: 150px;
+    background: linear-gradient(270deg, rgba(17, 48, 76, 0.8) -1.88%, rgba(1, 17, 41, 0.8) 76.25%);
+    
+}
+
+
+.sub{
+    
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+    font-weight: 600; font-size: 32px; letter-spacing: 1px; color: #5B8FB9;
+}
+.foto{
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 150px;
+    left: 78px;
+    top: 50px;
+
+    background-image: url(KTM.jpg);
+    border-radius: 15px;
+    
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    
+}
+ul,p{
+    position: absolute;
+width: 808px;
+height: 108px;
+left: 307px;
+top: 45px;
+
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+
+color: white;
+
+}
+
+.circle{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    top: 70px;
+    border-radius: 150px;
+}
+
+.contact{
+    margin-bottom: 50px; 
+    height: 100px;
+}
+
+.capt{
+    position: absolute;
+    width: 232px;
+    height: 29px;
+    
+    top: 35px;
+    
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+
+
+    color: white;
+ }
+
