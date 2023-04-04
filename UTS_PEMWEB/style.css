@@ -1,0 +1,34 @@
+
+table{
+    text-align: center;
+}
+.merah{
+    background-color: rgb(221, 105, 105);
+}
+.kuning{
+    background-color:rgb(243, 251, 89) ;
+}
+.hijau{
+    background-color: rgb(95, 228, 177);
+}
+tr a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;;
+}
+li a:hover, tr a:hover{
+    color:blue;
+}
+th,td{
+    padding: 10px;
+}
+li,li a{
+    display:inline-block;
+    height: 30px;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 100;
+    color: black;
+}
